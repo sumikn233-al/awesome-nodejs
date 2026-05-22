@@ -1,15 +1,4 @@
-<div align="center">
-	<div>
-		<img width="500" src="media/logo.svg" alt="Awesome Node.js">
-		<br>
-	</div>
-	<br>
-	<br>
-	<br>
-	<br>
-	<hr>
-	<p>
-		<p>
+
 			<sup>
 				<a href="https://github.com/sponsors/sindresorhus">My open source work is supported by the community</a>
 			</sup>
